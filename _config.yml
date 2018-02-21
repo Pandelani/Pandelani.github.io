@@ -1,18 +1,5 @@
 theme: jekyll-theme-slate
 title: Welcome to Pandelani Nekhumbe's homepage! Kha vha pfe vho tanganedzwa.
 description: Feel free to bookmark this to keep an eye on my projects updates!
+author: Pandelani Nekhumbe
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: pnlongj@gmail.com
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-googleplus: # anything in your profile username that comes after plus.google.com/
