@@ -38,6 +38,11 @@ color : blue;
 .right {
   right: 0;
   background-color: grey;
+      /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
 
 /* If you want the content centered horizontally and vertically */
@@ -55,22 +60,9 @@ color : blue;
   border-radius: 50%;
 } 
 
-.parallax {
-    /* The image used */
-    background-image: url('img_parallax.jpg');
-
-    /* Full height */
-    height: 100%; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 @media only screen and (max-device-width: 1366px) {
-    .parallax {
+    .right {
         background-attachment: scroll;
     }
 }
