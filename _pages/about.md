@@ -13,7 +13,7 @@ My work is on the application of artificial intelligence techniques in forest tr
 
 The Tshipise Sagole Baobab Tree
 ======
-What would be a story without a mention of the Tshipise Sagole Baobab tree?
+What would be a story without a mention of the Tshipise Sagole Baobab tree?.  My colleagues always accuse me of overhyping my village and trinbesmen, I blame all of this to my childhood upbringing. Tshipise is a remote village in the Vhembe District, blessed with a hot water spring, and many other nature attraction places. Happy to show you around and visit the Kruger National Park through the Pafuri Gate.
 
 
 For more info
